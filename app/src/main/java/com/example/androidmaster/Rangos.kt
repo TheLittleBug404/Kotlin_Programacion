@@ -9,6 +9,8 @@ fun SeriePares(n:Int){
     }
     println()
 }
+//para los rangos solo colocamos
+// in numeroEmpiezo .. numeroFinal
 fun rangosWhen(n:Int){
     when (n){
         in 1..500 -> println("introduciste un numero del 1 al 500")
