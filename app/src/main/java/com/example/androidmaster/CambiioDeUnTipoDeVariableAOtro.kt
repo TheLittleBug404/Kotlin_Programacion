@@ -1,4 +1,4 @@
-package com.example.androidmaster
+package com.example.androidmaster.CambiioDeUnTipoDeVariableAOtroKt
 
 //en aca veremos como podemos cambiar de uns tipo de variable a otro tipo de variable
 //para convertir de una variable a otra simplemente usamos el toInt,toFloat,toString etc
